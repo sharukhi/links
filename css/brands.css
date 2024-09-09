@@ -80,7 +80,7 @@ button:hover,
 /* Default (this is great for your own brand color!) */
 .button.button-default {
   color: #ffffff;
-  background-color: #2457F5;
+  background-color: #000000;
 }
 .button.button-default:hover,
 .button.button-default:focus {
@@ -322,7 +322,7 @@ button:hover,
 /* Facebook */
 .button.button-faceb {
   color: #ffffff;
-  background-color: #1877f2;
+  background-color: #000000;
 }
 .button.button-faceb:hover,
 .button.button-faceb:focus {
@@ -468,7 +468,7 @@ button:hover,
 /* Instagram */
 .button.button-instagram {
   color: #ffffff;
-  background-image: linear-gradient(-135deg, #1400c8, #b900b4, #f50000);
+  background: #000000;
 }
 .button.button-instagram:hover,
 .button.button-instagram:focus {
@@ -579,7 +579,7 @@ button:hover,
 /* Mastodon */
 .button.button-mastodon {
   color: #ffffff;
-  background-color: #17063B;
+  background-color: #000000;
   border: 1px solid #FFFFFF;
 }
 .button.button-mastodon:hover,
@@ -955,8 +955,8 @@ button:hover,
 
 /* Unsplash */
 .button.button-unsplash {
-  color: #000000;
-  background-color: #ffffff;
+  color: #FFFFFF;
+  background-color: #000000;
   border: 1px solid #212121;
 }
 .button.button-unsplash:hover,
