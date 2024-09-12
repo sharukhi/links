@@ -46,7 +46,8 @@ button {
   outline: none;
   border-radius: 8px;
   cursor: pointer;
-  
+
+
 }     
 button:hover,
 .button:focus {
@@ -80,7 +81,7 @@ button:hover,
 /* Default (this is great for your own brand color!) */
 .button.button-default {
   color: #ffffff;
-  background-color: #000000;
+  background-color: #33372C;
 }
 .button.button-default:hover,
 .button.button-default:focus {
@@ -89,8 +90,6 @@ button:hover,
 
 /* Amazon */
 .button.button-amazon {
-  color: #000000;
-  background-color: #FFFFFF;
   border: 1px solid #212121;
 }
 .button.button-amazon:hover,
@@ -322,7 +321,7 @@ button:hover,
 /* Facebook */
 .button.button-faceb {
   color: #ffffff;
-  background-color: #000000;
+  background-color: #33372C;
 }
 .button.button-faceb:hover,
 .button.button-faceb:focus {
@@ -382,8 +381,7 @@ button:hover,
 /* GitHub */
 .button.button-github {
   color: #ffffff;
-  background-color: #000000;
-  border: 1px solid #FFFFFF;
+  background-color: #33372C;
 }
 .button.button-github:hover,
 .button.button-github:focus {
@@ -468,7 +466,7 @@ button:hover,
 /* Instagram */
 .button.button-instagram {
   color: #ffffff;
-  background: #000000;
+  background-color: #33372C;
 }
 .button.button-instagram:hover,
 .button.button-instagram:focus {
@@ -579,8 +577,7 @@ button:hover,
 /* Mastodon */
 .button.button-mastodon {
   color: #ffffff;
-  background-color: #000000;
-  border: 1px solid #FFFFFF;
+  background-color: #33372C;
 }
 .button.button-mastodon:hover,
 .button.button-mastodon:focus {
@@ -956,8 +953,7 @@ button:hover,
 /* Unsplash */
 .button.button-unsplash {
   color: #FFFFFF;
-  background-color: #000000;
-  border: 1px solid #212121;
+  background-color: #33372C;
 }
 .button.button-unsplash:hover,
 .button.button-unsplash:focus {
@@ -1049,8 +1045,7 @@ button:hover,
 /* X */
 .button.button-x {
   color: #FFFFFF;
-  background-color: #000000;
-  border: 1px solid #FFFFFF;
+  background-color: #33372C;
 }
 .button.button-x:hover,
 .button.button-x:focus {
